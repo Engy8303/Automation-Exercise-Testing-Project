@@ -38,6 +38,3 @@ git clone https://github.com/Engy8303/Automation-Exercise-Testing-Project.git
 cd Automation-Exercise-Testing-Project
 mvn clean install
 
-
-###📊 Reporting
-All test results are captured with Allure Reports
