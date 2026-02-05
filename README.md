@@ -10,7 +10,7 @@ It is integrated with **Allure Reports** for advanced test reporting.
 
 ## ⚙️ Features
 - Page Object Model (POM) structure for clean and maintainable tests.  
-- Centralized helper classes (WaitHelper, ScreenshotHelper, etc.).  
+- Centralized helper classes (WaitHelper, etc.).  
 - Reusable utilities for common actions.  
 - Allure Reports integration.
 - Organized test suites for Login, Registration, Checkout, and more.
